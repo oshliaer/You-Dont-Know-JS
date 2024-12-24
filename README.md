@@ -1,11 +1,11 @@
-# You Don't Know JS Yet (book series) - 2nd Edition
+# Вы всё еще не знаете JS (серия книг) - 2-е издание
 
-This is a series of books diving deep into the core mechanisms of the JavaScript language. This is the **second edition** of the book series:
+Это серия книг, для глубокого погружения в основные механизмы языка JavaScript. Это **Второе издание** серии книг:
 
 <a href="https://leanpub.com/ydkjsy-get-started"><img src="get-started/images/cover.png" width="75"></a>&nbsp;&nbsp;
 <a href="https://leanpub.com/ydkjsy-scope-closures"><img src="scope-closures/images/cover.png" width="75"></a>&nbsp;&nbsp;...
 
-**To read more about the motivations and perspective behind this book series, check out the [Preface](preface.md).**
+**Чтобы узнать больше о мотивах и целях этой серии книг, ознакомьтесь с [Предисловием](preface.md).**
 
 If you're looking for the previous **first edition** books, [they can be found here](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md).
 
